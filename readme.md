@@ -30,7 +30,7 @@ to switch back, use
 setxkbmap de
 ```
 
-## Useful Links
+## Useful Links and Commands
 
 layout of xmodmap files:
 
@@ -39,4 +39,10 @@ https://wiki.archlinux.org/index.php/Xmodmap
 using xev to get keycodes:
 
 https://unix.stackexchange.com/a/49651
+
+get your current keycode assignment:
+
+```
+xmodmap -pke 
+```
 
