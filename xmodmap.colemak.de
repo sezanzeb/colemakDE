@@ -1,0 +1,33 @@
+! xmodmap for the Colemak layout.
+! 2006-01-01 Shai Coleman, http://colemak.com/ . Public domain. 
+
+! modified https://github.com/sezanzeb/colemakDE for german keyboards
+                                                  
+keycode  24 = q Q q Q        odiaeresis        Odiaeresis            
+keycode  25 = w W w W             aring             Aring          
+keycode  26 = f F f F            atilde            Atilde           
+keycode  27 = p P p P            oslash          Ooblique            
+keycode  28 = g G g G       dead_ogonek        asciitilde            
+keycode  29 = j J j J           dstroke           Dstroke            
+keycode  30 = l L l L           lstroke           Lstroke            
+keycode  31 = u U u U            uacute            Uacute            
+keycode  32 = y Y y Y        udiaeresis        Udiaeresis                
+                                                                                   
+keycode  38 = a A a A            aacute            Aacute            
+keycode  39 = r R r R        dead_grave        asciitilde            
+keycode  40 = s S s S            ssharp        asciitilde            
+keycode  41 = t T t T        dead_acute  dead_doubleacute            
+keycode  42 = d D d D    dead_diaeresis        asciitilde            
+keycode  43 = h H h H        dead_caron        asciitilde            
+keycode  44 = n N n N            ntilde            Ntilde            
+keycode  45 = e E e E            eacute            Eacute            
+keycode  46 = i I i I            iacute            Iacute            
+keycode  47 = o O o O            oacute            Oacute              
+                                                                                      
+keycode  52 = z Z z Z                ae                AE            
+keycode  53 = x X x X   dead_circumflex        asciitilde            
+keycode  54 = c C c C          ccedilla          Ccedilla            
+keycode  55 = v V v V                oe                OE            
+keycode  56 = b B b B        dead_breve        asciitilde            
+keycode  57 = k K k K    dead_abovering        asciitilde            
+keycode  58 = m M m M       dead_macron        asciitilde          
