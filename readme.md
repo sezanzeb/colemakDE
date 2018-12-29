@@ -21,7 +21,7 @@ AltGr+q and AltGr+Shift+Q
 ## Usage
 
 ```
-setxkbmap de; xmodmap xmodmap_colemak_de
+setxkbmap de; xmodmap xmodmap.colemak.de
 ```
 
 to switch back, use
