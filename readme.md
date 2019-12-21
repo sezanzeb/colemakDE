@@ -30,6 +30,8 @@ to switch back, use
 setxkbmap de
 ```
 
+to load it on startup, you can use https://wiki.archlinux.org/index.php/Xinit#xinitrc
+
 ## Useful Links and Commands
 
 layout of xmodmap files:
