@@ -3,31 +3,35 @@
 
 ! modified https://github.com/sezanzeb/colemakDE for german keyboards
                                                   
-keycode  24 = q Q q Q        odiaeresis        Odiaeresis            
-keycode  25 = w W w W             aring             Aring          
-keycode  26 = f F f F            atilde            Atilde           
-keycode  27 = p P p P            oslash          Ooblique            
-keycode  28 = g G g G       dead_ogonek        asciitilde            
-keycode  29 = j J j J           dstroke           Dstroke            
-keycode  30 = l L l L           lstroke           Lstroke            
-keycode  31 = u U u U            uacute            Uacute            
-keycode  32 = y Y y Y        udiaeresis        Udiaeresis                
+keycode  24 = q Q q Q at Greek_OMEGA at 
+keycode  25 = w W w W lstroke Lstroke lstroke
+keycode  26 = f F f F dstroke ordfeminine dstroke
+keycode  27 = p P p P thorn THORN thorn
+keycode  28 = g G g G eng ENG eng
+keycode  29 = j J j J dead_belowdot dead_abovedot dead_belowdot
+keycode  30 = l L l L lstroke Lstroke lstroke
+keycode  31 = u U u U downarrow uparrow downarrow
+keycode  32 = y Y y Y guillemotright U203A guillemotright
+keycode  33 = odiaeresis Odiaeresis odiaeresis Odiaeresis            
                                                                                    
-keycode  38 = a A a A            aacute            Aacute            
-keycode  39 = r R r R        dead_grave        asciitilde            
-keycode  40 = s S s S            ssharp        asciitilde            
-keycode  41 = t T t T        dead_acute  dead_doubleacute            
-keycode  42 = d D d D    dead_diaeresis        asciitilde            
-keycode  43 = h H h H        dead_caron        asciitilde            
-keycode  44 = n N n N            ntilde            Ntilde            
-keycode  45 = e E e E            eacute            Eacute            
-keycode  46 = i I i I            iacute            Iacute            
-keycode  47 = o O o O            oacute            Oacute              
+keycode  38 = a A a A ae AE ae
+keycode  39 = r R r R paragraph registered paragraph
+keycode  40 = s S s S U017F U1E9E U017F
+keycode  41 = t T t T tslash Tslash tslash
+keycode  42 = d D d D eth ETH eth
+keycode  43 = h H h H hstroke Hstroke hstroke   
+keycode  44 = n N n N rightdoublequotemark rightsinglequotemark rightdoublequotemark
+keycode  45 = e E e E EuroSign EuroSign EuroSign
+keycode  46 = i I i I rightarrow idotless rightarrow
+keycode  47 = o O o O oslash Oslash oslash
                                                                                       
-keycode  52 = z Z z Z                ae                AE            
-keycode  53 = x X x X   dead_circumflex        asciitilde            
-keycode  54 = c C c C          ccedilla          Ccedilla            
-keycode  55 = v V v V                oe                OE            
-keycode  56 = b B b B        dead_breve        asciitilde            
-keycode  57 = k K k K    dead_abovering        asciitilde            
-keycode  58 = m M m M       dead_macron        asciitilde          
+keycode  52 = z Z z Z leftarrow yen leftarrow
+keycode  53 = x X x X guillemotleft U2039 guillemotleft
+keycode  54 = c C c C cent copyright cent
+keycode  55 = v V v V doublelowquotemark singlelowquotemark doublelowquotemark            
+keycode  56 = b B b B leftdoublequotemark leftsinglequotemark leftdoublequotemark            
+keycode  57 = k K k K kra ampersand kra            
+keycode  58 = m M m M mu masculine mu 
+
+       
+
