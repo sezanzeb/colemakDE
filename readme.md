@@ -10,14 +10,6 @@ which will therefore not change the existing (german) special characters
 
 **this is a beta version**
 
-## Umlaute
-
-ä, Ä, ü and Ü stay where they are
-
-ö and Ö moved to:
-
-AltGr+q and AltGr+Shift+Q
-
 ## Usage
 
 ```
